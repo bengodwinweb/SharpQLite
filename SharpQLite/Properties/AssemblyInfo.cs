@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SharpQLite")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Managed C# library designed to handle interactions with a SQLite database using reflection")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Ben Godwin")]
 [assembly: AssemblyProduct("SharpQLite")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
